@@ -1,2 +1,2 @@
-# Sample_learn
-this  is for the first time touch with git
+# Java_learn
+java sample progrmas discussed in class
